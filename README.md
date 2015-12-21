@@ -1,2 +1,101 @@
 # my-favorite-talks
-A list of my favorite talks on programming
+
+An ongoing list of my favorite talks on programming
+
+## Individual Speaker Talks
+
+#### André Staltz
+
+- [Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)
+- [What If the User Was a Function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)
+
+#### Ashley G. Williams
+
+- [If You Wish to Learn ES6/2015 From Scratch, You Must First Invent the Universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
+
+#### Brendan Eich 
+
+- [Computing Conversations with Brendan Eich](https://www.youtube.com/watch?v=IPxQ9kEaF8c)
+- [ECMAScript Harmony: Rise of the Compilers](https://www.youtube.com/watch?v=PlmsweSNhTw)
+- [ES6 and 7, the Future of JS](https://vimeo.com/113913703)
+
+#### Brian Beckman
+
+- [Don't Fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
+
+#### Dan Abramov
+
+- [Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
+
+#### David Nolen
+
+- [The Front End Architecture Revolution](https://www.youtube.com/watch?v=nDNU2pmuJA8)
+- [Immutability, Interactivity, & JavaScript](https://www.youtube.com/watch?v=c2MrtfHMM1Y)
+- [Immutability: Putting The Dream Machine To Work ](https://www.youtube.com/watch?v=SiFwRtCnxv4)
+
+#### Douglas Crockford
+
+- [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc)
+
+#### Elijah Manor
+
+- [https://www.youtube.com/watch?v=JVlfj7mQZPo](https://www.youtube.com/watch?v=JVlfj7mQZPo)
+
+#### Eric Elliott
+
+- [Static Types Are Overrated](https://www.youtube.com/watch?v=_kXiH1Yiemw)
+- [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://www.youtube.com/watch?v=lKCCZTUx0sI)
+
+#### Erik Meijer
+
+- [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w)
+
+#### Evan Czaplicki
+
+- [Controlling Time and Space: Understanding the Many Formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw)
+- [Let's Be Bainstream! User Focused Design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE)
+
+#### Jafar Husain 
+
+- Placeholder
+
+#### John-David Daulton
+
+- Placeholder
+
+#### José Valim
+
+- Placeholder
+
+#### Kyle Simpson
+
+- [New Rules for JS](https://www.youtube.com/watch?v=S4cvuuq3OKY)
+- [The Economy of Keystrokes](https://www.youtube.com/watch?v=C_yj4k4QZVI)
+- [What the... JavaScript?](https://www.youtube.com/watch?v=2pL28CcEijU)
+
+#### Reginald Braithwaite 
+
+- Placeholder
+
+#### Richard Feldman
+
+- [Effects as Data](https://www.youtube.com/watch?v=6EdXaWfoslc)
+- [Functional Frontend Frontier](https://www.youtube.com/watch?v=06M0jdYYSis)
+- [Make the Back-End Team Jealous: Elm in Production](https://www.youtube.com/watch?v=FV0DXNB94NE)
+
+#### Rich Hickey
+
+- [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
+- [Simply Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
+- [The Value of Values](https://www.youtube.com/watch?v=-6BsiVyC1kM)
+
+## Multiple Speaker Talks
+
+#### Angular Air
+
+- [Episode 41: The Importance of Learning JavaScript](https://www.youtube.com/watch?v=hWmNDlLrCI0)
+
+#### JavaScript Air 
+
+- [Episode 00: The Past, Present, and Future of JavaScript](https://www.youtube.com/watch?v=fg4e-2lBw5E)
+- [Episode 01: Learning and Developing JavaScript](https://www.youtube.com/watch?v=uDtkEEIBsz4)
