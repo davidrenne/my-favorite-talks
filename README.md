@@ -48,6 +48,7 @@ An ongoing list of my favorite talks on programming
 
 #### Erik Meijer
 
+- [Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 - [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w)
 
 #### Evan Czaplicki
