@@ -68,7 +68,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ###### Evan Czaplicki
 
 - [Controlling Time and Space: Understanding the Many Formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw)
-- [Let's Be Bainstream! User Focused Design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE)
+- [Let's Be Mainstream! User Focused Design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE)
 
 ###### Jafar Husain 
 
