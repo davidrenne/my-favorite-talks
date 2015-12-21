@@ -60,6 +60,10 @@ An ongoing list of my favorite talks on programming
 #### Jafar Husain 
 
 - Placeholder
+- 
+#### Jessica Kerr
+
+- [Elixir Should Take Over the World](https://www.youtube.com/watch?v=X25xOhntr6s)
 
 #### John-David Daulton
 
