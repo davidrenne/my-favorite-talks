@@ -39,7 +39,7 @@ An ongoing list of my favorite talks on programming
 
 #### Elijah Manor
 
-- [https://www.youtube.com/watch?v=JVlfj7mQZPo](https://www.youtube.com/watch?v=JVlfj7mQZPo)
+- [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo)
 
 #### Eric Elliott
 
