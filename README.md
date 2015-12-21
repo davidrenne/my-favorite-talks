@@ -36,6 +36,7 @@ An ongoing list of my favorite talks on programming
 #### Douglas Crockford
 
 - [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc)
+- [The Better Parts (.concat() 2015)](https://www.youtube.com/watch?v=_EF-FO63MXs)
 
 #### Elijah Manor
 
