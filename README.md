@@ -51,6 +51,7 @@ An ongoing list of my favorite talks on programming
 
 - [Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 - [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w)
+- [What Does It Mean to Be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0)
 
 #### Evan Czaplicki
 
