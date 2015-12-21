@@ -59,7 +59,9 @@ An ongoing list of my favorite talks on programming
 
 #### Jafar Husain 
 
-- Placeholder
+- [Async Programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc)
+- [Asynchronous JavaScript at Netflix](https://www.youtube.com/watch?v=5uxSu-F5Kj0)
+- [Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc)
 - 
 #### Jessica Kerr
 
