@@ -86,7 +86,7 @@ An ongoing list of my favorite talks on programming
 #### Rich Hickey
 
 - [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
-- [Simply Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
+- [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
 - [The Value of Values](https://www.youtube.com/watch?v=-6BsiVyC1kM)
 
 ## Multiple Speaker Talks
