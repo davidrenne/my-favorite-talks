@@ -31,7 +31,7 @@ An ongoing list of my favorite talks on programming
 
 - [The Front End Architecture Revolution](https://www.youtube.com/watch?v=nDNU2pmuJA8)
 - [Immutability, Interactivity, & JavaScript](https://www.youtube.com/watch?v=c2MrtfHMM1Y)
-- [Immutability: Putting The Dream Machine To Work ](https://www.youtube.com/watch?v=SiFwRtCnxv4)
+- [Immutability: Putting the Dream Machine to Work](https://www.youtube.com/watch?v=SiFwRtCnxv4)
 
 #### Douglas Crockford
 
