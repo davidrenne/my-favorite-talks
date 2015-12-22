@@ -37,7 +37,8 @@ Below is a list of  speakers & talks I have watched which have personally resona
 
 ##### Douglas Crockford
 - [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc)
-- [The Better Parts (.concat() 2015)](https://www.youtube.com/watch?v=_EF-FO63MXs)
+- [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook)
+- [The Better Parts](https://www.youtube.com/watch?v=_EF-FO63MXs)
 
 ##### Elijah Manor
 - [Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo)
@@ -85,8 +86,12 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Async and Steaming JS - Are We Doing It Wrong?](https://www.youtube.com/watch?v=-vPFP-2Mkl8)
 - [Async Programming at Netflix](https://www.youtube.com/watch?v=QCBcEMVNFN0)
 
+##### Pete Hunt
+- [React: Rethinking Best Practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+
 ##### Reginald Braithwaite 
-- Placeholder
+- [The Art of the JavaScript Metaobject Protocol](https://www.youtube.com/watch?v=hp7sgLVepF8)
+- [Invent the Future, Don't Recreate the Past](https://www.youtube.com/watch?v=uYcAjr2J_rU)
 
 ##### Richard Feldman
 - [Effects as Data](https://www.youtube.com/watch?v=6EdXaWfoslc)
