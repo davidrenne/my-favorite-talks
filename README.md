@@ -3,15 +3,11 @@
 An ongoing list of my favorite programming talks
 
 
-
-
 #### Preface
 
-Books are great. Articles & blog posts are also great. The amount of detail that can be packed into written language is incredible. However, in my opinion, when it comes to learning new concepts & considering alternative points of view, nothing comes close to being able to hear AND see a person express themselves at the same time. Hand gestures, body language, facial expressions, the emotion in the voice, the natural inflections & emphasis put on carefully chosen words... These are the things that really strike a chord with me and help me to understand the intention of the speaker. I love watching talks on programming, and I believe watching talks from speakers who come from different backgrounds, who use different programming languages & different tools, who have fundamentally different perspectives, etc. is the absolute best way to expand the mind and get better insight into the art & science that is software development.
+Books, articles, & blog posts are all great. The amount of detail that can be packed into written language is incredible. However, in my opinion, when it comes to learning new concepts & considering alternative points of view, nothing comes close to being able to hear AND see a person express themselves at the same time. Hand gestures, body language, facial expressions, the emotion in the voice, the natural inflections & emphasis put on carefully chosen words... These are the things that really strike a chord with me and help me to understand the intention of the speaker. I love watching talks on programming, and I believe watching talks from speakers who come from different backgrounds, who use different programming languages & different tools, who have fundamentally different perspectives, etc. is the absolute best way to expand the mind and get better insight into the art & science that is software development.
 
 Below is a list of  speakers & talks I have watched which have personally resonated with me in some meaningful way, whether it be emotionally, technically, or philosophically. This list will be continually updated as I discover new talks.
-
-
 
 
 #### Individual Speaker Talks
@@ -109,8 +105,6 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 - [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
 - [The Value of Values](https://www.youtube.com/watch?v=-6BsiVyC1kM)
-
-
 
 
 #### Multiple Speaker Talks
