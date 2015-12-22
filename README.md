@@ -1,4 +1,4 @@
-# my-favorite-talks
+# My Favorite Talks
 
 An ongoing list of my favorite programming talks
 
