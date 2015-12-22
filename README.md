@@ -77,6 +77,10 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [The Economy of Keystrokes](https://www.youtube.com/watch?v=C_yj4k4QZVI)
 - [What the... JavaScript?](https://www.youtube.com/watch?v=2pL28CcEijU)
 
+##### Mark Dalgleish
+- [The Case for CSS Modules](https://www.youtube.com/watch?v=zR1lOuyQEt8)
+- [The End of Global CSS](https://www.youtube.com/watch?v=W17YAEmjeqY)
+
 ##### Matt Podwysocki
 - [Async and Steaming JS - Are We Doing It Wrong?](https://www.youtube.com/watch?v=-vPFP-2Mkl8)
 - [Async Programming at Netflix](https://www.youtube.com/watch?v=QCBcEMVNFN0)
@@ -94,6 +98,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
 - [The Value of Values](https://www.youtube.com/watch?v=-6BsiVyC1kM)
 
+##### Sebastien McKenzie
+- [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE)
+- [JavaScript Transformation](https://www.youtube.com/watch?v=rKuNbEwoQfQ)
 
 #### Multiple Speaker Talks
 
