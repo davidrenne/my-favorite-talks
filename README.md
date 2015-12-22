@@ -67,7 +67,8 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - Placeholder
 
 ##### José Valim
-- Placeholder
+- [Elixir](https://www.youtube.com/watch?v=aZXc11eOEpI)
+- [Phoenix a Web Framework for the New Web](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
 
 ##### Kyle Simpson
 - [New Rules for JS](https://www.youtube.com/watch?v=S4cvuuq3OKY)
