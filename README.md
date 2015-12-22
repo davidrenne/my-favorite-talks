@@ -75,6 +75,10 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [The Economy of Keystrokes](https://www.youtube.com/watch?v=C_yj4k4QZVI)
 - [What the... JavaScript?](https://www.youtube.com/watch?v=2pL28CcEijU)
 
+##### Matt Podwysocki
+- [Async and Steaming JS - Are We Doing It Wrong?](https://www.youtube.com/watch?v=-vPFP-2Mkl8)
+- [Async Programming at Netflix](https://www.youtube.com/watch?v=QCBcEMVNFN0)
+
 ##### Reginald Braithwaite 
 - Placeholder
 
