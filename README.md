@@ -98,6 +98,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Martin Fowler
 - [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 - [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA)
+- [Not Just Code Monkeys](https://www.youtube.com/watch?v=4E3xfR6IBII)
 
 ##### Matt Podwysocki
 - [Async and Steaming JS - Are We Doing It Wrong?](https://www.youtube.com/watch?v=-vPFP-2Mkl8)
