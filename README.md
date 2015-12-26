@@ -95,6 +95,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [The Case for CSS Modules](https://www.youtube.com/watch?v=zR1lOuyQEt8)
 - [The End of Global CSS](https://www.youtube.com/watch?v=W17YAEmjeqY)
 
+##### Martin Fowler
+- [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA)
+
 ##### Matt Podwysocki
 - [Async and Steaming JS - Are We Doing It Wrong?](https://www.youtube.com/watch?v=-vPFP-2Mkl8)
 - [Async Programming at Netflix](https://www.youtube.com/watch?v=QCBcEMVNFN0)
