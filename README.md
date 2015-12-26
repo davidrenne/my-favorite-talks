@@ -56,6 +56,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Controlling Time and Space: Understanding the Many Formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw)
 - [Let's Be Mainstream! User Focused Design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE)
 
+##### Jamie Winsor
+- [Building And Releasing A Massively Multiplayer Online Game](https://www.youtube.com/watch?v=_i6n-eWiVn4)
+
 ##### Henrik Joreteg
 - [A Single Page Story](https://www.youtube.com/watch?v=hrAssE8meRo)
 - [Pocket-sized JS](https://www.youtube.com/watch?v=okk0BGV9oY0)
