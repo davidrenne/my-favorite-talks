@@ -24,7 +24,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [ECMAScript Harmony: Rise of the Compilers](https://www.youtube.com/watch?v=PlmsweSNhTw)
 - [ES6 and 7, the Future of JS](https://vimeo.com/113913703)
 
-##### Brent Victor
+##### Bret Victor
 - [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
 
 ##### Brian Beckman
