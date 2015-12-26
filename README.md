@@ -30,6 +30,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Brian Beckman
 - [Don't Fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 
+##### Brian Lonsdorf
+- [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
+
 ##### Dan Abramov
 - [Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
 
