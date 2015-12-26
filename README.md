@@ -96,6 +96,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [The End of Global CSS](https://www.youtube.com/watch?v=W17YAEmjeqY)
 
 ##### Martin Fowler
+- [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 - [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA)
 
 ##### Matt Podwysocki
