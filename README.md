@@ -30,6 +30,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Dan Abramov
 - [Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
 
+##### Dave Thomas
+- [Elixir: The Power of Erlang, the Joy of Ruby](https://www.youtube.com/watch?v=lww1aZ-ldz0)
+
 ##### David Nolen
 - [The Front End Architecture Revolution](https://www.youtube.com/watch?v=nDNU2pmuJA8)
 - [Immutability, Interactivity, & JavaScript](https://www.youtube.com/watch?v=c2MrtfHMM1Y)
