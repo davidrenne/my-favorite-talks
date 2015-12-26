@@ -77,6 +77,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Elixir](https://www.youtube.com/watch?v=aZXc11eOEpI)
 - [Phoenix a Web Framework for the New Web](https://www.youtube.com/watch?v=WIyXz2wxnJQ)
 
+##### Kelsey Gilmore-Innis
+- [Enjoy Yourself Because You Can't Change Anything Anyway: Immutable Data in the Real World](https://www.youtube.com/watch?v=bi8c55JNyGA)
+
 ##### Kyle Simpson
 - [New Rules for JS](https://www.youtube.com/watch?v=S4cvuuq3OKY)
 - [The Economy of Keystrokes](https://www.youtube.com/watch?v=C_yj4k4QZVI)
