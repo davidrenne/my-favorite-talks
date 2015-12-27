@@ -67,7 +67,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Let's Be Mainstream! User Focused Design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE)
 
 ##### Jamie Winsor
-- [Building And Releasing A Massively Multiplayer Online Game](https://www.youtube.com/watch?v=_i6n-eWiVn4)
+- [Building and Releasing a Massively Multiplayer Online Game](https://www.youtube.com/watch?v=_i6n-eWiVn4)
 
 ##### Henrik Joreteg
 - [A Single Page Story](https://www.youtube.com/watch?v=hrAssE8meRo)
