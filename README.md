@@ -37,6 +37,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
 
 ##### Dave Thomas
+- [Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 - [Elixir: The Power of Erlang, the Joy of Ruby](https://www.youtube.com/watch?v=lww1aZ-ldz0)
 
 ##### David Nolen
