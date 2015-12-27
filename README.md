@@ -129,6 +129,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [The Value of Values](https://www.youtube.com/watch?v=-6BsiVyC1kM)
 
 ##### Rob Pike
+- [Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c)
 - [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
 
 ##### Sebastien McKenzie
