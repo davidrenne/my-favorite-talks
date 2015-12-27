@@ -128,6 +128,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0)
 - [The Value of Values](https://www.youtube.com/watch?v=-6BsiVyC1kM)
 
+##### Rob Pike
+- [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
+
 ##### Sebastien McKenzie
 - [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE)
 - [JavaScript Transformation](https://www.youtube.com/watch?v=rKuNbEwoQfQ)
