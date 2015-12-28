@@ -80,6 +80,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 
 ##### Jessica Kerr
 - [Elixir Should Take Over the World](https://www.youtube.com/watch?v=X25xOhntr6s)
+- [Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU)
 
 ##### John-David Dalton
 - [Drawing Hands: Built-ins Written in JavaScript](https://www.youtube.com/watch?v=2DzaOnOyCqE)
