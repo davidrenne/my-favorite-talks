@@ -146,3 +146,4 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### JavaScript Air 
 - [Episode 00: The Past, Present, and Future of JavaScript](https://www.youtube.com/watch?v=fg4e-2lBw5E)
 - [Episode 01: Learning and Developing JavaScript](https://www.youtube.com/watch?v=uDtkEEIBsz4)
+- [Episode 03: Functional and Immutable Design Patterns in JavaScript](https://www.youtube.com/watch?v=82M9fKe7hiw)
