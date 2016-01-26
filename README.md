@@ -12,8 +12,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 
 #### Individual Speaker Talks
 
-##### André Staltz
+##### André Staltz (André Medeiros)
 - [Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)
+- [The Whole Future Declared in a Var](https://www.youtube.com/watch?v=BfZpr0USIi4)
 - [What If the User Was a Function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)
 
 ##### Ashley G. Williams
