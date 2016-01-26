@@ -114,6 +114,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Async and Steaming JS - Are We Doing It Wrong?](https://www.youtube.com/watch?v=-vPFP-2Mkl8)
 - [Async Programming at Netflix](https://www.youtube.com/watch?v=QCBcEMVNFN0)
 
+##### Paul Taylor 
+- [RXJS Evolved](https://www.youtube.com/watch?v=QhjALubBQPg)
+
 ##### Pete Hunt
 - [React: Rethinking Best Practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 
