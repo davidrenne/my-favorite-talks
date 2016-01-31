@@ -148,6 +148,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 
 ##### Angular Air
 - [Episode 41: The Importance of Learning JavaScript](https://www.youtube.com/watch?v=hWmNDlLrCI0)
+- [Episode 49: What's new in RxJS 5.0 with Ben Lesh](https://www.youtube.com/watch?v=9on6u7pI3vY)
 
 ##### JavaScript Air 
 - [Episode 00: The Past, Present, and Future of JavaScript](https://www.youtube.com/watch?v=fg4e-2lBw5E)
