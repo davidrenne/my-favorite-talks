@@ -24,6 +24,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Computing Conversations with Brendan Eich](https://www.youtube.com/watch?v=IPxQ9kEaF8c)
 - [ECMAScript Harmony: Rise of the Compilers](https://www.youtube.com/watch?v=PlmsweSNhTw)
 - [ES6 and 7, the Future of JS](https://vimeo.com/113913703)
+- [Web Evolution in Action 2](https://www.youtube.com/watch?v=gO2tt9x9zBc)
 
 ##### Bret Victor
 - [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
