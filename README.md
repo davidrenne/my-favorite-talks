@@ -1,6 +1,6 @@
 # My Favorite Talks
 
-An ongoing list of my favorite programming talks
+An ongoing list of my favorite programming talks... This is mostly just a convenient way of keeping a list of videos for myself to revisit.
 
 
 #### Preface
