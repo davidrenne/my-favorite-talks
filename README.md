@@ -12,6 +12,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 
 #### Individual Speaker Talks
 
+#### Alex Wilmer
+- [Extreme Streams](https://www.youtube.com/watch?v=zAWB3lPixtk)
+
 ##### André Staltz (André Medeiros)
 - [Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)
 - [The Whole Future Declared in a Var](https://www.youtube.com/watch?v=BfZpr0USIi4)
@@ -37,6 +40,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 
 ##### Dan Abramov
 - [Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
+- [The Reux Journey](https://www.youtube.com/watch?v=uvAXVMwHJXU)
 
 ##### Dave Thomas
 - [Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
@@ -101,6 +105,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [New Rules for JS](https://www.youtube.com/watch?v=S4cvuuq3OKY)
 - [The Economy of Keystrokes](https://www.youtube.com/watch?v=C_yj4k4QZVI)
 - [What the... JavaScript?](https://www.youtube.com/watch?v=2pL28CcEijU)
+
+#### Lee Byron
+- [Immutable User Interfaces](https://vimeo.com/166790294)
 
 ##### Mark Dalgleish
 - [The Case for CSS Modules](https://www.youtube.com/watch?v=zR1lOuyQEt8)
