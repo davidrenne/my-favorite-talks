@@ -38,6 +38,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Brian Lonsdorf
 - [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
 
+#### Cheng Lou
+- [On the Spectrum of Abstraction](https://www.youtube.com/watch?v=mVVNJKv9esE)
+
 ##### Dan Abramov
 - [Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
 - [The Reux Journey](https://www.youtube.com/watch?v=uvAXVMwHJXU)
