@@ -18,6 +18,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### André Staltz (André Medeiros)
 - [Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)
 - [The Whole Future Declared in a Var](https://www.youtube.com/watch?v=BfZpr0USIi4)
+- [Unidirectional Data Flow Architectures](https://vimeo.com/168652278)
 - [What If the User Was a Function?](https://www.youtube.com/watch?v=1zj7M1LnJV4)
 
 ##### Ashley G. Williams
@@ -74,6 +75,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Evan Czaplicki
 - [Controlling Time and Space: Understanding the Many Formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw)
 - [Let's Be Mainstream! User Focused Design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE)
+
+#### Fernando Macias Pereznieto
+- [Learning How to Ride: An Introduction to Cycle.js](https://www.youtube.com/watch?v=31URmaeNHSs)
 
 ##### Jamie Winsor
 - [Building and Releasing a Massively Multiplayer Online Game](https://www.youtube.com/watch?v=_i6n-eWiVn4)
