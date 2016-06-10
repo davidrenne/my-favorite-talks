@@ -166,6 +166,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Episode 49: What's new in RxJS 5.0 with Ben Lesh](https://www.youtube.com/watch?v=9on6u7pI3vY)
 
 ##### JavaScript Air 
-- [Episode 00: The Past, Present, and Future of JavaScript](https://www.youtube.com/watch?v=fg4e-2lBw5E)
-- [Episode 01: Learning and Developing JavaScript](https://www.youtube.com/watch?v=uDtkEEIBsz4)
-- [Episode 03: Functional and Immutable Design Patterns in JavaScript](https://www.youtube.com/watch?v=82M9fKe7hiw)
+- [Episode 000: The Past, Present, and Future of JavaScript](https://www.youtube.com/watch?v=fg4e-2lBw5E)
+- [Episode 001: Learning and Developing JavaScript](https://www.youtube.com/watch?v=uDtkEEIBsz4)
+- [Episode 003: Functional and Immutable Design Patterns in JavaScript](https://www.youtube.com/watch?v=82M9fKe7hiw)
+- [Episode 018: Reactive Programming in JavaScript](https://www.youtube.com/watch?v=RFvwLifhxDg)
