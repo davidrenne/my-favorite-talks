@@ -179,4 +179,4 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Episode 018: Reactive Programming in JavaScript](https://www.youtube.com/watch?v=RFvwLifhxDg)
 
 ##### Laney Kuenzel & Lee Byron
--[GraphQL Future](https://www.youtube.com/watch?v=ViXL0YQnioU)
+- [GraphQL Future](https://www.youtube.com/watch?v=ViXL0YQnioU)
