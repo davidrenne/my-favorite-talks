@@ -12,10 +12,10 @@ Below is a list of  speakers & talks I have watched which have personally resona
 
 #### Individual Speaker Talks
 
-#### Alex Wilmer
+##### Alex Wilmer
 - [Extreme Streams](https://www.youtube.com/watch?v=zAWB3lPixtk)
 
-#### Andrew Clark
+##### Andrew Clark
 - [Recomposing Your React Application](https://www.youtube.com/watch?v=zD_judE-bXk)
 
 ##### André Staltz (André Medeiros)
@@ -116,7 +116,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [The Economy of Keystrokes](https://www.youtube.com/watch?v=C_yj4k4QZVI)
 - [What the... JavaScript?](https://www.youtube.com/watch?v=2pL28CcEijU)
 
-#### Lee Byron
+##### Lee Byron
 - [Immutable User Interfaces](https://vimeo.com/166790294)
 
 ##### Mark Dalgleish
