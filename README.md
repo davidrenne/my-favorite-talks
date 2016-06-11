@@ -15,6 +15,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 #### Alex Wilmer
 - [Extreme Streams](https://www.youtube.com/watch?v=zAWB3lPixtk)
 
+#### Andrew Clark
+- [Recomposing Your React Application](https://www.youtube.com/watch?v=zD_judE-bXk)
+
 ##### André Staltz (André Medeiros)
 - [Cycle.js and Functional Reactive User Interfaces](https://www.youtube.com/watch?v=uNZnftSksYg)
 - [The Whole Future Declared in a Var](https://www.youtube.com/watch?v=BfZpr0USIi4)
