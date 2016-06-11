@@ -42,7 +42,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Brian Lonsdorf
 - [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
 
-#### Cheng Lou
+##### Cheng Lou
 - [On the Spectrum of Abstraction](https://www.youtube.com/watch?v=mVVNJKv9esE)
 
 ##### Dan Abramov
