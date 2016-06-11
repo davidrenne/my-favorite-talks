@@ -82,9 +82,6 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Fernando Macias Pereznieto
 - [Learning How to Ride: An Introduction to Cycle.js](https://www.youtube.com/watch?v=31URmaeNHSs)
 
-##### Jamie Winsor
-- [Building and Releasing a Massively Multiplayer Online Game](https://www.youtube.com/watch?v=_i6n-eWiVn4)
-
 ##### Henrik Joreteg
 - [A Single Page Story](https://www.youtube.com/watch?v=hrAssE8meRo)
 - [Pocket-sized JS](https://www.youtube.com/watch?v=okk0BGV9oY0)
@@ -92,7 +89,11 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Jafar Husain 
 - [Async Programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc)
 - [Asynchronous JavaScript at Netflix](https://www.youtube.com/watch?v=5uxSu-F5Kj0)
+- [Falcor: One Model Everywhere](https://www.youtube.com/watch?v=nxQweyTUj5s)
 - [Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc)
+
+##### Jamie Winsor
+- [Building and Releasing a Massively Multiplayer Online Game](https://www.youtube.com/watch?v=_i6n-eWiVn4)
 
 ##### Jessica Kerr
 - [Elixir Should Take Over the World](https://www.youtube.com/watch?v=X25xOhntr6s)
@@ -103,6 +104,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Drawing Hands: Built-ins Written in JavaScript](https://www.youtube.com/watch?v=2DzaOnOyCqE)
 - [Lo-Dash and JavaScript Performance](https://www.youtube.com/watch?v=cD9utLH3QOk)
 - [Unorthodox Performance](https://www.youtube.com/watch?v=NthmeLEhDDM)
+
+##### Jonas Gebhardt
+- [Evolving the Visual Programming Environment with React](https://www.youtube.com/watch?v=WjJdaDXN5Vs)
 
 ##### José Valim
 - [Elixir](https://www.youtube.com/watch?v=aZXc11eOEpI)
@@ -173,3 +177,6 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Episode 001: Learning and Developing JavaScript](https://www.youtube.com/watch?v=uDtkEEIBsz4)
 - [Episode 003: Functional and Immutable Design Patterns in JavaScript](https://www.youtube.com/watch?v=82M9fKe7hiw)
 - [Episode 018: Reactive Programming in JavaScript](https://www.youtube.com/watch?v=RFvwLifhxDg)
+
+##### Laney Kuenzel & Lee Byron
+-[GraphQL Future](https://www.youtube.com/watch?v=ViXL0YQnioU)
