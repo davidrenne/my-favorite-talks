@@ -16,6 +16,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Extreme Streams](https://www.youtube.com/watch?v=zAWB3lPixtk)
 
 ##### Andrew Clark
+- [Back to React](https://www.youtube.com/watch?v=ZVYVtUFDf28)
 - [Recomposing Your React Application](https://www.youtube.com/watch?v=zD_judE-bXk)
 
 ##### André Staltz (André Medeiros)
