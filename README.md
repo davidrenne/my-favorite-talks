@@ -122,6 +122,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [What the... JavaScript?](https://www.youtube.com/watch?v=2pL28CcEijU)
 
 ##### Lee Byron
+- [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
 - [Immutable User Interfaces](https://vimeo.com/166790294)
 
 ##### Mark Dalgleish
