@@ -30,6 +30,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 
 ##### Bodil Stokke
 - [PureScript (Maybe This Time We Get JavaScript Right)](https://www.youtube.com/watch?v=yIlDBPiMb0o)
+- [What Every Hipster Should Know About Functional Programming](https://www.youtube.com/watch?v=mS11v99ZyJc)
 
 ##### Brendan Eich 
 - [Computing Conversations with Brendan Eich](https://www.youtube.com/watch?v=IPxQ9kEaF8c)
