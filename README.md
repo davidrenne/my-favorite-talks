@@ -28,6 +28,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Ashley G. Williams
 - [If You Wish to Learn ES6/2015 From Scratch, You Must First Invent the Universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
 
+##### Bodil Stokke
+- [PureScript (Maybe This Time We Get JavaScript Right)](https://www.youtube.com/watch?v=yIlDBPiMb0o)
+
 ##### Brendan Eich 
 - [Computing Conversations with Brendan Eich](https://www.youtube.com/watch?v=IPxQ9kEaF8c)
 - [ECMAScript Harmony: Rise of the Compilers](https://www.youtube.com/watch?v=PlmsweSNhTw)
