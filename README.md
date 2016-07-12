@@ -87,6 +87,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Fernando Macias Pereznieto
 - [Learning How to Ride: An Introduction to Cycle.js](https://www.youtube.com/watch?v=31URmaeNHSs)
 
+#### Francesc Campoy Flores
+- [Functional Go?](https://www.youtube.com/watch?v=ouyHp2nJl0I)
+
 ##### Henrik Joreteg
 - [A Single Page Story](https://www.youtube.com/watch?v=hrAssE8meRo)
 - [Pocket-sized JS](https://www.youtube.com/watch?v=okk0BGV9oY0)
@@ -104,6 +107,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Elixir Should Take Over the World](https://www.youtube.com/watch?v=X25xOhntr6s)
 - [Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU)
 - [Functional Principles in React](https://www.youtube.com/watch?v=1uRC3hmKQnM)
+
+#### John Carmack
+- [Keynote at Quakecon 2013 Part 4](https://www.youtube.com/watch?v=1PhArSujR_A)
 
 ##### John-David Dalton
 - [Drawing Hands: Built-ins Written in JavaScript](https://www.youtube.com/watch?v=2DzaOnOyCqE)
