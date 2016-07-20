@@ -12,6 +12,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 
 #### Individual Speaker Talks
 
+##### Alan Kay
+- [Power of Simplicity](https://www.youtube.com/watch?v=NdSD07U5uBs)
+
 ##### Alex Wilmer
 - [Extreme Streams](https://www.youtube.com/watch?v=zAWB3lPixtk)
 
