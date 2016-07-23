@@ -57,6 +57,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
 - [The Reux Journey](https://www.youtube.com/watch?v=uvAXVMwHJXU)
 
+#### Darcy Clarke
+- [The Future of CSS](https://www.youtube.com/watch?v=0YKXxohfcmo)
+
 ##### Dave Thomas
 - [Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 - [Elixir: The Power of Erlang, the Joy of Ruby](https://www.youtube.com/watch?v=lww1aZ-ldz0)
@@ -96,6 +99,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Henrik Joreteg
 - [A Single Page Story](https://www.youtube.com/watch?v=hrAssE8meRo)
 - [Pocket-sized JS](https://www.youtube.com/watch?v=okk0BGV9oY0)
+
+#### Jacob Thornton
+- [Cascading Shit Show](https://www.youtube.com/watch?v=iniwPUEbPUM)
 
 ##### Jafar Husain 
 - [Async Programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc)
