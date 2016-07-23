@@ -159,6 +159,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Async Programming at Netflix](https://www.youtube.com/watch?v=QCBcEMVNFN0)
 - [Reactive JavaScript at Netflix, Microsoft and the World](https://www.youtube.com/watch?v=BwwgmB73Hzw)
 
+##### Mikko Haapoja
+- [React for Vikings](https://www.youtube.com/watch?v=8b95VSUkVCw)
+
 ##### Paul Taylor 
 - [RXJS Evolved](https://www.youtube.com/watch?v=QhjALubBQPg)
 
