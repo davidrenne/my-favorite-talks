@@ -100,8 +100,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [A Single Page Story](https://www.youtube.com/watch?v=hrAssE8meRo)
 - [Pocket-sized JS](https://www.youtube.com/watch?v=okk0BGV9oY0)
 
-#### Jacob Thornton
+#### Jacob Thornton aka @fat
 - [Cascading Shit Show](https://www.youtube.com/watch?v=iniwPUEbPUM)
+- [What the Fuck is Open Source & Why do I Feel so Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os)
 
 ##### Jafar Husain 
 - [Async Programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc)
