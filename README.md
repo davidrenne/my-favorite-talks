@@ -127,7 +127,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Unorthodox Performance](https://www.youtube.com/watch?v=NthmeLEhDDM)
 
 #### John Resig
-- [Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
+- [Using JavaScript to Teach JavaScript](https://www.youtube.com/watch?v=H4sSldXv_S4)
 
 ##### Jonas Gebhardt
 - [Evolving the Visual Programming Environment with React](https://www.youtube.com/watch?v=WjJdaDXN5Vs)
