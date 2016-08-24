@@ -57,7 +57,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
 - [The Reux Journey](https://www.youtube.com/watch?v=uvAXVMwHJXU)
 
-#### Darcy Clarke
+##### Darcy Clarke
 - [The Future of CSS](https://www.youtube.com/watch?v=0YKXxohfcmo)
 
 ##### Dave Thomas
