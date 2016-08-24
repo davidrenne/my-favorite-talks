@@ -96,14 +96,14 @@ Below is a list of  speakers & talks I have watched which have personally resona
 #### Francesc Campoy Flores
 - [Functional Go?](https://www.youtube.com/watch?v=ouyHp2nJl0I)
 
-#### Gleb Bahmutov
+##### Gleb Bahmutov
 - [Which JavaScript Framework Should I Use Next?](https://www.youtube.com/watch?v=ji8hqDi2BnA)
 
 ##### Henrik Joreteg
 - [A Single Page Story](https://www.youtube.com/watch?v=hrAssE8meRo)
 - [Pocket-sized JS](https://www.youtube.com/watch?v=okk0BGV9oY0)
 
-#### Jacob Thornton aka @fat
+##### Jacob Thornton aka @fat
 - [Cascading Shit Show](https://www.youtube.com/watch?v=iniwPUEbPUM)
 - [What the Fuck is Open Source & Why do I Feel so Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os)
 
