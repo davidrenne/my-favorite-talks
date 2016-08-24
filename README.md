@@ -96,6 +96,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 #### Francesc Campoy Flores
 - [Functional Go?](https://www.youtube.com/watch?v=ouyHp2nJl0I)
 
+#### Gleb Bahmutov
+- [Which JavaScript framework should I use next?](https://www.youtube.com/watch?v=ji8hqDi2BnA)
+
 ##### Henrik Joreteg
 - [A Single Page Story](https://www.youtube.com/watch?v=hrAssE8meRo)
 - [Pocket-sized JS](https://www.youtube.com/watch?v=okk0BGV9oY0)
