@@ -48,6 +48,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Don't Fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 
 ##### Brian Lonsdorf
+- [Functional Programming Patterns for the Non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM)
 - [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
 
 ##### Cheng Lou
