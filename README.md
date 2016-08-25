@@ -206,6 +206,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Episode 41: The Importance of Learning JavaScript](https://www.youtube.com/watch?v=hWmNDlLrCI0)
 - [Episode 49: What's new in RxJS 5.0 with Ben Lesh](https://www.youtube.com/watch?v=9on6u7pI3vY)
 
+##### Forward.js (Brian Lonsdorf, Phil Freeman, Evan Czaplicki, Lee Byron, and Hardy Jones)
+- [Forward 4 Web Summit: Functional All The Things](https://www.youtube.com/watch?v=re4oOOkqs3E)
+
 ##### JavaScript Air 
 - [Episode 000: The Past, Present, and Future of JavaScript](https://www.youtube.com/watch?v=fg4e-2lBw5E)
 - [Episode 001: Learning and Developing JavaScript](https://www.youtube.com/watch?v=uDtkEEIBsz4)
