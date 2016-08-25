@@ -98,6 +98,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Functional Go?](https://www.youtube.com/watch?v=ouyHp2nJl0I)
 
 ##### Gleb Bahmutov
+- [MVC to FRP](https://www.youtube.com/watch?v=-PCq4pXaDZw)
 - [Which JavaScript Framework Should I Use Next?](https://www.youtube.com/watch?v=ji8hqDi2BnA)
 
 ##### Henrik Joreteg
