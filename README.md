@@ -122,6 +122,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Rethinking All Practices: Building Applications in Elm](https://www.youtube.com/watch?v=txxKx_I39a8)
 
 ##### Jessica Kerr
+- [Adventures in Elm](https://www.youtube.com/watch?v=cgXhMc8M4X4)
 - [Elixir Should Take Over the World](https://www.youtube.com/watch?v=X25xOhntr6s)
 - [Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU)
 - [Functional Principles in React](https://www.youtube.com/watch?v=1uRC3hmKQnM)
