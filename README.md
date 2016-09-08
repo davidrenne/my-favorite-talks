@@ -213,6 +213,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Forward.js (Brian Lonsdorf, Phil Freeman, Evan Czaplicki, Lee Byron, and Hardy Jones)
 - [Forward 4 Web Summit: Functional All The Things](https://www.youtube.com/watch?v=re4oOOkqs3E)
 
+##### Functional Programming for the Web
+- [April 2016](https://www.youtube.com/watch?v=PeQzKp8vNaM)
+
 ##### JavaScript Air 
 - [Episode 000: The Past, Present, and Future of JavaScript](https://www.youtube.com/watch?v=fg4e-2lBw5E)
 - [Episode 001: Learning and Developing JavaScript](https://www.youtube.com/watch?v=uDtkEEIBsz4)
