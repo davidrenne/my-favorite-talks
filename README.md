@@ -31,6 +31,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Ashley G. Williams
 - [If You Wish to Learn ES6/2015 From Scratch, You Must First Invent the Universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
 
+##### Ben Lesh
+- [Async Redux Actions with RxJS](https://www.youtube.com/watch?v=sF5-V-Szo0c)
+
 ##### Bodil Stokke
 - [PureScript (Maybe This Time We Get JavaScript Right)](https://www.youtube.com/watch?v=yIlDBPiMb0o)
 - [What Every Hipster Should Know About Functional Programming](https://www.youtube.com/watch?v=mS11v99ZyJc)
@@ -50,6 +53,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Brian Lonsdorf
 - [Functional Programming Patterns for the Non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM)
 - [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
+- [Oh Composable World!](https://www.youtube.com/watch?v=SfWR3dKnFIo)
 
 ##### Cheng Lou
 - [On the Spectrum of Abstraction](https://www.youtube.com/watch?v=mVVNJKv9esE)
@@ -171,6 +175,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Async and Steaming JS - Are We Doing It Wrong?](https://www.youtube.com/watch?v=-vPFP-2Mkl8)
 - [Async Programming at Netflix](https://www.youtube.com/watch?v=QCBcEMVNFN0)
 - [Reactive JavaScript at Netflix, Microsoft and the World](https://www.youtube.com/watch?v=BwwgmB73Hzw)
+
+##### Michael Trotter
+- [PureScript & Pux -- a safer, more expressive way to React](https://www.youtube.com/watch?v=MvAiOTJNLNQ)
 
 ##### Mikko Haapoja
 - [React for Vikings](https://www.youtube.com/watch?v=8b95VSUkVCw)
