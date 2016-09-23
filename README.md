@@ -98,7 +98,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Fernando Macias Pereznieto
 - [Learning How to Ride: An Introduction to Cycle.js](https://www.youtube.com/watch?v=31URmaeNHSs)
 
-#### Francesc Campoy Flores
+##### Francesc Campoy Flores
 - [Functional Go?](https://www.youtube.com/watch?v=ouyHp2nJl0I)
 
 ##### Gleb Bahmutov
@@ -131,7 +131,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU)
 - [Functional Principles in React](https://www.youtube.com/watch?v=1uRC3hmKQnM)
 
-#### John Carmack
+##### John Carmack
 - [Keynote at Quakecon 2013 Part 4](https://www.youtube.com/watch?v=1PhArSujR_A)
 
 ##### John-David Dalton
@@ -139,7 +139,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Lo-Dash and JavaScript Performance](https://www.youtube.com/watch?v=cD9utLH3QOk)
 - [Unorthodox Performance](https://www.youtube.com/watch?v=NthmeLEhDDM)
 
-#### John Resig
+##### John Resig
 - [Using JavaScript to Teach JavaScript](https://www.youtube.com/watch?v=H4sSldXv_S4)
 
 ##### Jonas Gebhardt
@@ -210,6 +210,8 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Sebastien McKenzie
 - [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE)
 - [JavaScript Transformation](https://www.youtube.com/watch?v=rKuNbEwoQfQ)
+
+---
 
 #### Multiple Speaker Talks
 
