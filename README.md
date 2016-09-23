@@ -228,6 +228,8 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Episode 001: Learning and Developing JavaScript](https://www.youtube.com/watch?v=uDtkEEIBsz4)
 - [Episode 003: Functional and Immutable Design Patterns in JavaScript](https://www.youtube.com/watch?v=82M9fKe7hiw)
 - [Episode 018: Reactive Programming in JavaScript](https://www.youtube.com/watch?v=RFvwLifhxDg)
+- [Episode 034: Typed Functional Programming in JavaScript](https://www.youtube.com/watch?v=mwdXBFtRl0o)
+- [Episode 038: Typed JavaScript with TypeScript and Flow](https://www.youtube.com/watch?v=Qiqsg02nXFE)
 
 ##### Laney Kuenzel & Lee Byron
 - [GraphQL Future](https://www.youtube.com/watch?v=ViXL0YQnioU)
