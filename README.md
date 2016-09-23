@@ -231,3 +231,6 @@ Below is a list of  speakers & talks I have watched which have personally resona
 
 ##### Laney Kuenzel & Lee Byron
 - [GraphQL Future](https://www.youtube.com/watch?v=ViXL0YQnioU)
+
+##### React30
+- [006 - Origins of React](https://www.youtube.com/watch?v=yiCnfJ1rflI)
