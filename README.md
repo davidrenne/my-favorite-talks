@@ -152,6 +152,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Kelsey Gilmore-Innis
 - [Enjoy Yourself Because You Can't Change Anything Anyway: Immutable Data in the Real World](https://www.youtube.com/watch?v=bi8c55JNyGA)
 
+##### Kris Jenkins
+- [What is Functional Programming?](https://www.youtube.com/watch?v=tQRtTSIpye4)
+
 ##### Kyle Simpson
 - [New Rules for JS](https://www.youtube.com/watch?v=S4cvuuq3OKY)
 - [The Economy of Keystrokes](https://www.youtube.com/watch?v=C_yj4k4QZVI)
