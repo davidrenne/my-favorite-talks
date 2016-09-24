@@ -196,6 +196,7 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Effects as Data](https://www.youtube.com/watch?v=6EdXaWfoslc)
 - [Functional Frontend Frontier](https://www.youtube.com/watch?v=06M0jdYYSis)
 - [Make the Back-End Team Jealous: Elm in Production](https://www.youtube.com/watch?v=FV0DXNB94NE)
+- [Making Impossible States Impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8)
 
 ##### Rich Hickey
 - [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
