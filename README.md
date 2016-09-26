@@ -211,6 +211,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c)
 - [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
 
+##### Scott Wlaschin 
+[Functional Programming Design Patterns](https://www.youtube.com/watch?v=E8I19uA-wGY)
+
 ##### Sebastien McKenzie
 - [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE)
 - [JavaScript Transformation](https://www.youtube.com/watch?v=rKuNbEwoQfQ)
