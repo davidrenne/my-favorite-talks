@@ -31,6 +31,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 ##### Ashley G. Williams
 - [If You Wish to Learn ES6/2015 From Scratch, You Must First Invent the Universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
 
+##### Bartosz Milewski
+- [Category Theory 5.2](https://www.youtube.com/watch?v=w1WMykh7AxA)
+
 ##### Ben Lesh
 - [Async Redux Actions with RxJS](https://www.youtube.com/watch?v=sF5-V-Szo0c)
 
