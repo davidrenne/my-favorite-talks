@@ -55,6 +55,9 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
 - [Oh Composable World!](https://www.youtube.com/watch?v=SfWR3dKnFIo)
 
+##### Brian McKenna
+- [Idris: Practical Dependent Types with Practical Examples](https://www.youtube.com/watch?v=4i7KrG1Afbk)
+
 ##### Cheng Lou
 - [On the Spectrum of Abstraction](https://www.youtube.com/watch?v=mVVNJKv9esE)
 
