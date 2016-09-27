@@ -250,4 +250,4 @@ Below is a list of  speakers & talks I have watched which have personally resona
 - [GraphQL Future](https://www.youtube.com/watch?v=ViXL0YQnioU)
 
 ##### React30
-- [006 - Origins of React](https://www.youtube.com/watch?v=yiCnfJ1rflI)
+- DONE [006 - Origins of React](https://www.youtube.com/watch?v=yiCnfJ1rflI)
